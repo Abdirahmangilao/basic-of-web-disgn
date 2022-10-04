@@ -1,0 +1,85 @@
+<html> 
+	<head>
+		<title>2.Öğretim Ders</title>
+		<meta charset="utf-8" />
+		<meta name="keywords" content="dpü, kütahya, dumlupınar" />
+		<meta name="description" content="İlk HTML sayfam." />
+	</head>
+	<body>
+	MERHABA DÜNYA <br/>
+	Kış Geliyor...
+	<p>Kütahya Dumlupınar Üniversitesi</p>
+	
+	<p>Kütahya Teknik Bilimler MYO</p>
+	<h1>Kütahya Dumlupınar Üniversitesi</h1>
+	<hr/>
+	<!-- Bu kısımlara yorum yazabilirim-->
+	<h2>Kütahya Dumlupınar Üniversitesi</h2>
+	<h3>Kütahya Dumlupınar Üniversitesi</h3>
+	<h4>Kütahya Dumlupınar Üniversitesi</h4>
+	<h5>Kütahya Dumlupınar Üniversitesi</h5>
+	<h6>Kütahya Dumlupınar Üniversitesi</h6>
+	<!-- Sıralı liste: ordered list
+		 Sırasız liste: Unordered list
+		 ** list ıtem**
+		 -->
+		<ol>
+			<li>Balıkesirspor</li>
+			<li>Galatasarayspor</li>
+			<li>Beşiktaş</li>
+			<li>trabzonspor</li>
+			<li>tavşanlı Linyitspor</li>
+		</ol>
+		<ul>
+			<li>Balıkesirspor</li>
+			<li>Galatasarayspor</li>
+			<li>Beşiktaş</li>
+			<li>trabzonspor</li>
+			<li>tavşanlı Linyitspor</li>
+		</ul>
+	
+	</body>
+
+</html><html> 
+	<head>
+		<title>2.Öğretim Ders</title>
+		<meta charset="utf-8" />
+		<meta name="keywords" content="dpü, kütahya, dumlupınar" />
+		<meta name="description" content="İlk HTML sayfam." />
+	</head>
+	<body>
+	MERHABA DÜNYA <br/>
+	Kış Geliyor...
+	<p>Kütahya Dumlupınar Üniversitesi</p>
+	
+	<p>Kütahya Teknik Bilimler MYO</p>
+	<h1>Kütahya Dumlupınar Üniversitesi</h1>
+	<hr/>
+	<!-- Bu kısımlara yorum yazabilirim-->
+	<h2>Kütahya Dumlupınar Üniversitesi</h2>
+	<h3>Kütahya Dumlupınar Üniversitesi</h3>
+	<h4>Kütahya Dumlupınar Üniversitesi</h4>
+	<h5>Kütahya Dumlupınar Üniversitesi</h5>
+	<h6>Kütahya Dumlupınar Üniversitesi</h6>
+	<!-- Sıralı liste: ordered list
+		 Sırasız liste: Unordered list
+		 ** list ıtem**
+		 -->
+		<ol>
+			<li>Balıkesirspor</li>
+			<li>Galatasarayspor</li>
+			<li>Beşiktaş</li>
+			<li>trabzonspor</li>
+			<li>tavşanlı Linyitspor</li>
+		</ol>
+		<ul>
+			<li>Balıkesirspor</li>
+			<li>Galatasarayspor</li>
+			<li>Beşiktaş</li>
+			<li>trabzonspor</li>
+			<li>tavşanlı Linyitspor</li>
+		</ul>
+	
+	</body>
+
+</html>
