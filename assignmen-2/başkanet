@@ -1,0 +1,98 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Abdirahmangilao 
+Abdirahmangilao
+/
+bas-c-of-web-d-sgn
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+bas-c-of-web-d-sgn/başkent.html
+@Abdirahmangilao
+Abdirahmangilao Add files via upload
+Latest commit d53d631 5 days ago
+ History
+ 1 contributor
+54 lines (44 sloc)  4.59 KB
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADIS ABAB</title>
+</head>
+<body style="background-color:beige ;">
+    <H1 style="font-size:85;" align="center"><u>BAŞKENT</u></H1>
+    <H2 align="center">ADIS ABABA</H2>
+  
+    <p style="font-size:18px ;">Addis Ababa veya Addis Abeba, Etiyopya ve Afrika Birliği'nin başkenti. 80 farklı dilin konuşulduğu şehirde Hristiyan, Müslüman ve Yahudi toplulukları yer alır. Deniz seviyesinden 2.355 metre yüksekte olan Addis Ababa'nın konumu 9.03° K 38.74° D'dir.
+
+        Addis Ababa uluslararası havaalanı ve kenti Aden Körfezi'ndeki Cibuti liman şehrine bağlayan demiryoluyla önemli bir kavşaktır. Deri, metal ve tekstil üretiminin yanı sıra kahve, tütün ve süt ürünleri üretimi açısından kent büyük bir ticari önem taşımaktadır.
+        
+        Geniş caddeler ve modern yüksek binaların yanında geleneksel kulübeleri ve gecekondu mahalleleri de bulunduran kent yumuşak bir iklime sahiptir. Addis Ababa Üniversitesi, müzik ve sahne sanatlarına yönelik yüksek okulları ve birçok araştırma enstitüsü şehri önemli bir eğitim merkezi yapar. Afrika Birliği'nin ve Birleşmiş Milletler Afrika Ekonomik Kurulu'nun merkezi olması nedeniyle birçok uluslararası konferansa ev sahipliği yapmaktadır.
+        
+        Şehrin en önemli turistik yapıları, St. Georg Katedrali (1896), II. Menelik Sarayı ile arkeolojik, etnolojik ve sanatsal birçok eseri içeren müzelerdir.
+        
+        1886 yılında İmparator II. Menelik tarafından kurulan şehrin bulunduğu alanı eşi İmparatoriçe Taytu Betul seçmiştir. Şehre adını veren Addis Ababa ifadesi Etiyopya dilinde "yeni çiçek" anlamına gelir. Kent 1889'da Etiyopya'nın başkenti olmuştur. Kentin plansız büyümesi, 1917'de Cibuti demiryolunun tamamlanmasından sonra büyük bir hız kazanmıştır. 1936'dan 1941'e kadar faşist İtalyan birlikleri tarafından işgal edilen kent, 1960'lı yıllarda tekrar hızlı bir büyüme yaşamış, nüfusunu ikiye katlamış ve birçok hafif sanayi işletmesine kavuşmuştur. Addis Ababa aynı zamanda 1963 yılında Afrika Birliği Örgütü'nün sözleşmesinin imzalandığı kenttir. Addis Ababa'nın nüfusu yaklaşık olarak 2,7 milyondur ve senede %4 büyüme oranı vardır.
+        
+        Kuzeydoğu Afrika'da bir zamanlar Habeşistan olarak bilinen Etiyopya'nın ilginç geleneklerinden biri, bir hanedanın kurucusu olan her kralın kendisi için yeni bir başkent yaptırmasıdır. Bugünkü başkent Addis Ababa da 1887 gibi oldukça yakın bir tarihte Kral II. Menelik'le başlayan yeni hanedanlık döneminde kurulmuştur.
+        
+        
+        Addis Ababa bölgeleri haritası
+        Adı yeni çiçek anlamına gelen Addis Ababa, deniz yüzeyinden 2500 metre yükseklikteki dağların üzerinde, okaliptus ağaçlarının arasında uzanır. Bolivya'nın başkenti La Paz'dan sonra dünyanın ikinci yüksek başkentidir. Derin vadilerle yarılmış olan kentteki belli başlı yapıların hepsi beyaz badanalı, çatıları da oluklu teneke kaplıdır. Bu yapıların yanında yer alan çamurdan yapılmış, saz damlı yüzlerde kulübe, kente büyükçe bir köy görünümü verir. Karayollarıyla Kenya'ya, Somali'ye ve Sudan'a bağlanan Addis Ababa, Kızıldeniz kıyısındaki Cibuti'ye de demiryoluyla bağlıdır. Ayrıca Avrupa ve Orta Doğu ülkeleriyle bağlantısını sağlayan bir havalimanı vardır.</P>
+        <table align="center">
+            <tr>
+        <img src="images/bas1.png.crdownload" alt="" width="300" height="300">
+        <img src="images/bad2.jpg" alt="" width="300" height="300"
+        >
+    </tr>
+    </table>
+    <ol>
+        <tr>
+        <li><a href="index.html">etipoya</a></li>
+        <li><a href="hükümet etipoya.html">hükümet etipoya</a></li>
+         <li><a href="prime minister.html">Başbakan</a></li>
+        <li><a href="etipoya dil.html">etipoya dil
+        </a></li>
+        <li><a href="Coğrafya.html">coğrafi</a></li>
+       <li><a href="tarih.html">etipoya tarihi</a></li>
+       <li><a href="culutur foods.html">kültür yemek</a></li>
+       <li><a href="economy.html">ekonomi</a></li>
+       <li><a href="population.html">nefüs</a></li>
+       <li><a href="eğitim.html">eğitim</a></li>
+       <li><a href="başkent.html">başkent</a></li>
+       <li><a href="religion.html">etipoya din</a></li>
+       <li ><a href="spor leage.html">SPOR</a></li> </ol>
+
+    
+</body>
+</html>
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+bas-c-of-web-d-sgn/başkent.html at main · Abdirahmangilao/bas-c-of-web-d-sgn
