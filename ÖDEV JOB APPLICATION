@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application form</title>
+    <link rel="stylesheet" href="stylejob.css">
+</head>
+<body>
+    <h1>Job Application form</h1>
+    <form >  
+
+        <h3>Personal information</h3>
+    First name: <input type="text" name="first_name" placeholder="First name" required>
+    Last name: <input type="text" name="last_name" placeholder="Last name" required>
+    Middle name: <input type="text" name="middle_name" placeholder="Middle name" required>
+    <br><br>
+      
+    <table>
+        <tr>
+          <td>Current Address</td> 
+          <td>Permanent Address</td> 
+        </tr>
+        <tr>
+            <td><textarea name="Current_Address" id="current_address" cols="30" rows="10" placeholder="Type your Address....." required></textarea></td>
+
+            <td><textarea name="Permanent_Address" id="Permanent_Address" cols="30" rows="10" placeholder="Type your Address....." required></textarea></td>
+        </tr>
+    </table>
+     <br>
+     <div>
+        <div class="form_control">
+            <label for="city">City</label>
+            <input type="city" id="city" name="city"
+            placeholder="City Name" required>
+
+        </div>
+     </div>
+     <br>
+
+     <p><strong>Phone:</strong></p>
+Home phone: <input type="number" name="Phone_number" size="30" maxlength="4" placeholder="Country code" required> 
+<br><br>
+
+E-mail: <input type="E-mail" name="email" placeholder="email address" required>
+
+Upload cv: <input type="file" name="cv" id="cv" required>
+ <hr>
+    
+    <p><strong>Position:</strong></p>
+    
+  Manager: <input type="radio" name="Position">
+    Secretary : <input type="radio" name="Position">
+   Security <input type="radio" name="Position">
+   <br><br>
+   
+<div>
+    <div class="form_control">
+        <label for="job_role">job Role</label>
+        <select name="jibo_role" id="jibo_role" required>
+            <option value="">Select Job_Role</option>
+            <option value="React">React</option>
+            <option value="Node">Node.Js</option>
+            <option value="full_stack">Full stack Developer</option>
+            <option value="Frontend">Frontend Developer</option>
+        </select>
+
+    </div>
+</div>
+
+    
+    <br>
+    <p><strong>Are you currently employed</strong></p>
+    Yes: <input type="radio" name="emloyment status">
+    No: <input type="radio" name="emloyment status">
+    <br>
+
+    <strong>Start Date</strong>
+ <input type="date" name="stat date">
+ <hr>
+ <strong>Availability</strong>
+ <br>
+ Monday: <input type="chekbox" name="day">
+Tuesday: <input type="chekbox" name="day">
+Wednesday: <input type="chekbox" name="day">
+Thursday: <input type="chekbox" name="day">
+Friday: <input type="chekbox" name="day">
+ <hr>
+
+ Submit: <input type="submit" name="submit">
+
+
+
+    </form>
+
+</body>
+</html>
